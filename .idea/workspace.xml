@@ -42,7 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Program.executor": "Debug",
+    "Application.Program.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -76,7 +76,7 @@
       <workItem from="1710197443331" duration="821000" />
       <workItem from="1710198278242" duration="3000" />
       <workItem from="1710281586975" duration="2097000" />
-      <workItem from="1710456637995" duration="1059000" />
+      <workItem from="1710456637995" duration="2945000" />
     </task>
     <servers />
   </component>
