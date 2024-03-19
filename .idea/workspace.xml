@@ -7,7 +7,7 @@
     <list default="true" id="fcbb74fb-03f4-41fe-b288-f428b3e706dc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/piece/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/piece/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/piece/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/piece/Pawn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +78,22 @@
       <workItem from="1710281586975" duration="2097000" />
       <workItem from="1710456637995" duration="3538000" />
       <workItem from="1710769891480" duration="13052000" />
-      <workItem from="1710886622746" duration="1017000" />
+      <workItem from="1710886622746" duration="4374000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
